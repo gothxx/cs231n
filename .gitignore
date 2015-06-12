@@ -1,0 +1,11 @@
+./assignment1/cs231n/datasets/cifar-10-batches-py/
+./assignment1/cs231n/datasets/cifar-10-python.tar.gz
+./assignment3/cs231n/datasets/tiny-100-A-pretrained/
+./assignment3/cs231n/datasets/tiny-imagenet-100-B/
+./assignment3/cs231n/datasets/tiny-imagenet-100-A/
+./assignment1/cs231n/*.pyc
+./assignment2/cs231n/*.pyc
+./assignment3/cs231n/*.pyc
+./assignment2/cs231n/classifiers/*.pyc
+./assignment1/cs231n/classifiers/*.pyc
+./assignment3/cs231n/classifiers/*.pyc
